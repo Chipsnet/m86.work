@@ -56,7 +56,7 @@
             <h1 class="mb-4">Community</h1>
             <b-card class="my-2">
                 <h2 class="h3 font-weight-bold">限界創作村</h2>
-                <p class="text-muted">クリエイターのための創作企画</p>
+                <p class="text-muted"></p>
                 <b-card-text> 毎週開催してる大会企画だよ～ </b-card-text>
 
                 <a href="#" class="card-link">Card link</a>
